@@ -25,6 +25,16 @@
   <img align="center" alt="html5" src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white>
 </div>
 
+## Em desenvolvimento...
+
+<p>
+  Fora minhas atividades academicas, estou trabalhando em meu site, hospedado aqui no GitHub. Nele, irei abordar temas relacionados a fisica, matematica, astronomia e filosofia mas, para alem disso, o utilizarei como uma oportunidade de aprender CSS e HTML. 
+ </p>
+ 
+ ## Outras Atividades
+ <p>
+  Além de tudo citado acima, também possuo uma relação muito próxima a arte. Além de tocar piano e violão clássico, também desenho e pinto desde que me lembro por gente. Artes marciais, jogos de videogame e animes também são coisas que amo e que dedico boa parte do meu tempo livre.
+  </p>
 
 <!--
 **GustavoSilva73/GustavoSilva73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
