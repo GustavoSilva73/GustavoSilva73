@@ -8,7 +8,7 @@
 ## Sobre Mim
 
 <p>
-  Físico formado pela Universidade de São Paulo (USP), atualmente estou cursando uma segunda graduação em matemática pura, paralelamente ao meu mestrado em matemática aplicada, ambos na Universidade de São Paulo (USP). Possuo grande interesse por filosofia, mais especificamente em epistemologia, logica e filosofia da ciência. Durante minha graduação em física desenvolvi projetos de pesquisa nas areas de cosmologia e gravitacao, em particular modelei o setor escuro como um único campo escalar (interagente) dentro da teoria de Horndeski, que se trata de uma generalização da teoria dos Gelileons, e estimei os valores teóricos para os parâmetros cosmológicos computando a evolução temporal do universo através da teoria da perturbação, utilizando os códigos HI-CLASS (Horndeski in Cosmological Linear Anisotropy Solving System) e o UCLCl (Unified Cosmological Library for Cl’s) e calculei os modos de super-radiância de campos escalares com carga em espaços-tempo de Kerr-Newman anti-de Sitter. O cálculo da super-radiancia de campos carregados já foi realizado para espaços-tempo de Kerr e para campos sem carga em espaços-tempo de Kerr-Newman anti-de Sitter, então no meu projeto me propus a estender esses resultados e aplicá-los a cosmologia física, em particular aos buracos negros primordiais e seu status como candidato a constituinte da matéria escura, utilizando o código BlackHawk. Atualmente trabalho com métodos topológicos e geométricos aplicados a teoria clássica e quântica de campos. Também tive a oportunidade de auxiliar na construção do Radiotelescópio BINGO, onde fui responsável por auxiliar na otimização óptica de suas cornetas,  parte essa responsável pela captação das ondas eletromagnéticas.
+  Físico formado pela Universidade de São Paulo (USP), atualmente estou cursando uma segunda graduação em matemática pura, paralelamente ao meu mestrado em matemática aplicada, ambos na Universidade de São Paulo (USP). Possuo grande interesse por filosofia, mais especificamente em epistemologia, logica e filosofia da ciência. Durante minha graduação em física desenvolvi projetos de pesquisa nas areas de cosmologia e gravitação, em particular modelei o setor escuro como um único campo escalar (interagente) dentro da teoria de Horndeski, que se trata de uma generalização da teoria dos Gelileons, e estimei os valores teóricos para os parâmetros cosmológicos computando a evolução temporal do universo através da teoria da perturbação, utilizando os códigos HI-CLASS (Horndeski in Cosmological Linear Anisotropy Solving System) e o UCLCl (Unified Cosmological Library for Cl’s) e calculei os modos de super-radiância de campos escalares com carga em espaços-tempo de Kerr-Newman anti-de Sitter. O cálculo da super-radiancia de campos carregados já foi realizado para espaços-tempo de Kerr e para campos sem carga em espaços-tempo de Kerr-Newman anti-de Sitter, então no meu projeto me propus a estender esses resultados e aplicá-los a cosmologia física, em particular aos buracos negros primordiais e seu status como candidato a constituinte da matéria escura, utilizando o código BlackHawk. Atualmente trabalho com métodos topológicos e geométricos aplicados a teoria clássica e quântica de campos. Também tive a oportunidade de auxiliar na construção do Radiotelescópio BINGO, onde fui responsável por auxiliar na otimização óptica de suas cornetas,  parte essa responsável pela captação das ondas eletromagnéticas. Em um âmbito menos acadêmico, possuo grande  interesse de aprofundar meus conhecimentos na área financeira - em particular na área de riscos - e também em bancos de dados.
   </p>
 
 ## Linguagens e Tecnologias
@@ -28,13 +28,16 @@
 ## Em desenvolvimento...
 
 <p>
-  Fora minhas atividades academicas, estou trabalhando em meu site, hospedado aqui no GitHub. Nele, irei abordar temas relacionados a fisica, matematica, astronomia e filosofia mas, para alem disso, o utilizarei como uma oportunidade de aprender CSS e HTML. 
+ Atualmente estou trabalhando em meu site, o A Quanta of Philosophy, que é hospedado aqui mesmo no GitHub. Nele, irei abordar temas relacionados a fisica, matematica, astronomia e filosofia mas, para além disso, o utilizarei como uma oportunidade de aprender na pratica CSS e HTML. 
  </p>
  
- ## Outras Atividades
- <p>
-  Além de tudo citado acima, também possuo uma relação muito próxima a arte. Além de tocar piano e violão clássico, também desenho e pinto desde que me lembro por gente. Artes marciais, jogos de videogame e animes também são coisas que amo e que dedico boa parte do meu tempo livre.
-  </p>
+ ## Hobbies
+  <ul>
+  <li>Animes</li>
+  <li>Jogos</li>
+  <li>Literatura</li>
+  <li>Artes Marciais</li>
+</ul>
 
 <!--
 **GustavoSilva73/GustavoSilva73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
