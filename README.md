@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gustavosilva73.github.io/quantaofphilosophy/)
+[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://gustavosilva73.github.io/quantaofphilosophy/)
+
 
 <!--
 **GustavoSilva73/GustavoSilva73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
