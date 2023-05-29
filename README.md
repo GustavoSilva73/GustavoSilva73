@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Blog](https://img.shields.io/website?label=AQuantaofPhilosophy-up-down-green-red/http/monip.org.svg)](https://gustavosilva73.github.io/quantaofphilosophy/)
+[![Blog](https://img.shields.io/website?label=AQuantaofPhilosophy&style=for-the-badge&url=https://gustavosilva73.github.io/quantaofphilosophy/)](https://gustavosilva73.github.io/quantaofphilosophy/)
 
 
 <!--
