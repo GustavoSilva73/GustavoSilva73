@@ -20,10 +20,85 @@
   <img align="center" alt="html5" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
   <img align="center" alt="html5" src=https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white>
   <img align="center" alt="html5" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white>
-  <img align="center" alt="html5" src=https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white>
   <img align="center" alt="html5" src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black>
-  <img align="center" alt="html5" src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white>
 </div>
+
+## Informações Complementares
+<h2>Idiomas</h2>
+
+<table>
+  <tr>
+    <th>Lingua</th>
+    <th>Escrita</th>
+    <th>Leitura</th>
+    <th>Conversação</th>
+    <th>Audição</th>
+  </tr>
+  <tr>
+    <td>Português</td>
+    <td>Nativo</td>
+    <td>Nativo</td>
+    <td>Nativo</td>
+    <td>Nativo</td>
+  </tr>
+  <tr>
+    <td>Inglês</td>
+    <td>Avançado</td>
+    <td>Avançado</td>
+    <td>Avançado</td>
+    <td>Avançado</td>
+  </tr>
+  <tr>
+    <td>Japonês</td>
+    <td>Intermediário</td>
+    <td>Intermediário</td>
+    <td>Intermediário</td>
+    <td>Intermediário</td>
+  </tr>
+  <tr>
+    <td>Francês</td>
+    <td>Intermediário</td>
+    <td>Intermediário</td>
+    <td>Básico</td>
+    <td>Intermediário</td>
+  </tr>
+  <tr>
+    <td>Espanhol</td>
+    <td>Básico</td>
+    <td>Básico</td>
+    <td>Básico</td>
+    <td>Básico</td>
+  </tr>
+</table>
+
+<h2>Linguagens de Programação</h2>
+
+<table>
+  <tr>
+    <th>Linguagem</th>
+    <th>Nível de Proficiência</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Avançado</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Intermediário</td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>Intermediário</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>Básico</td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>Básico</td>
+  </tr>
+</table>
 
 ## Em desenvolvimento...
 
