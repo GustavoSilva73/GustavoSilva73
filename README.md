@@ -107,6 +107,8 @@
   <li>Jogos</li>
   <li>Literatura</li>
   <li>Artes Marciais</li>
+  <li>Piano e Violão</li>
+  <li>Desenho e Pintura</li>
 </ul>
 
 # Projetos em andamento...
