@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/website?label=AQuantaofPhilosophy&style=for-the-badge&url=https://gustavosilva73.github.io/quantaofphilosophy/)](https://gustavosilva73.github.io/quantaofphilosophy/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StrawHatGustav)
 
-![Gustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoSilva73&show_icons=true&theme=dark)
+![Gustav's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoSilva73&show_icons=true&theme=dark)
 
 # Sobre Mim
 
