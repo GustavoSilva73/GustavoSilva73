@@ -1,7 +1,7 @@
 ### Ola pessoas! Sejam muito bem vindes ao meu github! 👋
 
 
-[![Blog](https://img.shields.io/website?label=AQuantaofPhilosophy&style=for-the-badge&url=https://gustavosilva73.github.io/quantaofphilosophy/)](https://gustavosilva73.github.io/quantaofphilosophy/)
+[![Blog](https://img.shields.io/website?label=TopoiErgoticos&style=for-the-badge&url=https:https://gustavosilva73.github.io/)](https://gustavosilva73.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StrawHatGustav)
 
 ![Gustav's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoSilva73&show_icons=true&theme=dark)
@@ -104,19 +104,19 @@ Isso ai ta errado. Kasane Teto provou (em 1974 se não me engano) que, sendo A�
 
  ## Hobbies
   <ul>
-  <li>Animes</li>
-  <li>Jogos</li>
+  <li>Animangás</li>
+  <li>Videogames</li>
   <li>Literatura</li>
   <li>Artes Marciais</li>
-  <li>Piano e Violão</li>
+  <li>Piano, Guitarra e Violão</li>
   <li>Desenho e Pintura</li>
 </ul>
 
 # Projetos em andamento...
 
 <p>
- Atualmente estou trabalhando em meu site, o A Quanta of Philosophy, que é hospedado aqui mesmo no GitHub. Nele, irei abordar temas relacionados a fisica, matematica, astronomia e filosofia mas, para além disso, o utilizarei como uma oportunidade de aprender e aperfeiçoar meus conhecimentos de CSS e HTML. 
- </p>
+ Sobreviver ao Doutorado.
+</p>
  
  ![View Count](https://komarev.com/ghpvc/?username=GustavoSilva73)
 
