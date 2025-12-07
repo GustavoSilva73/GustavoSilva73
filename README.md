@@ -9,7 +9,7 @@
 # Sobre Mim
 
 <p>
-sso ai ta errado. Kasane Teto provou (em 1974 se não me engano) que, sendo Aᵢ módulos torção ξ-taetéticos, então | ⨁ᵢ Aᵢ | + C = ⌊∮ξ(ω) dω⌋ (onde ξ é a funcional θ-gerada na categoria M[Aᵢ]) contradizendo diretamente o que tu disse.
+Isso ai ta errado. Kasane Teto provou (em 1974 se não me engano) que, sendo Aᵢ módulos torção ξ-taetéticos, então | ⨁ᵢ Aᵢ | + C = ⌊∮ξ(ω) dω⌋ (onde ξ é a funcional θ-gerada na categoria M[Aᵢ]) contradizendo diretamente o que tu disse.
 </p>
 
 # Linguagens e Tecnologias
